@@ -7,4 +7,4 @@ if img is not None:
     cv2.waitKey()
     cv2.destroyAllWindows()
 else:
-    print('No image file.')
+    print('No image file.import numpy')
