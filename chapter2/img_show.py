@@ -1,6 +1,6 @@
 import cv2
 
-img_file = "../img/girl.jpg"  
+img_file = 'C:/Users/sangmok/Documents/opencv-sangmok/img/girl.jpg'  
 img = cv2.imread(img_file)  #파일로부터 이미지 읽기
 
 if img is not None:
